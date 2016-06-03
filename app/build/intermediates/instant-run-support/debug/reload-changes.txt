@@ -1,0 +1,2 @@
+CHANGED,C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\ec\edu\ute\dsii\MainActivity$override.class
+CHANGED,C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class

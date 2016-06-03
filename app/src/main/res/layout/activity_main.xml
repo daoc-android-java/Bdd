@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content">
+        
+        <TableRow >
+	        <TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="USR:"/>
+	
+		    <EditText
+		        android:id="@+id/usr"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content" /> 
+	    </TableRow>
+	    <TableRow > 
+	        <TextView 
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:text="PWD:"/>
+	
+		    <EditText
+		        android:id="@+id/pwd"
+		        android:layout_width="fill_parent"
+		        android:layout_height="wrap_content" />
+		</TableRow> 
+    </TableLayout>
+    
+    <Button
+        android:id="@+id/crear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="crearRegistro"
+        android:text="Nuevo" />
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content">
+
+		<TextView
+			android:id="@+id/tv"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"/>
+	</ScrollView>
+
+	<Button
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:onClick="irAlView"
+		android:text="LView" />
+
+</LinearLayout>
