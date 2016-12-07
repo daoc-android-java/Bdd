@@ -1,3 +1,95 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_df5c5b18e9dd1bd874dcc77d00ea27651e8e0cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_fdc902f091cee42538d81bf818d8298ade735d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_b8d8e800fae55878057a5d5f758d7d9fa41c95ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3ac917ec6574e4e1d2051ae5e76cb7a516b1e0a0">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a30b996076579fe579d25158708903202f40c149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_df5c5b18e9dd1bd874dcc77d00ea27651e8e0cd1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="b55daa672a857a33de89f9dbce7ca4723d249441">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a0acd02a4daba7bbd628ff469969fd634348dfec\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="85bb8e19f4f4bed75d73f6106c610189193a4a09">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_a30b996076579fe579d25158708903202f40c149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_b8d8e800fae55878057a5d5f758d7d9fa41c95ce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_fdc902f091cee42538d81bf818d8298ade735d43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="cd3951aa10996de6dc91a65028a8ea6a97bd1e31">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Bdd\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a0acd02a4daba7bbd628ff469969fd634348dfec\classes.dex" />
+    </item>
+
+</items>
