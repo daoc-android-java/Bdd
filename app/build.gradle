@@ -1,12 +1,10 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 29
-    buildToolsVersion '29.0.3'
+    compileSdkVersion 30
     defaultConfig {
         applicationId "ec.edu.ute.dsii"
-        minSdkVersion 29
-        targetSdkVersion 29
+        minSdkVersion 21
     }
     buildTypes {
         release {
